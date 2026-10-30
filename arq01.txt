@@ -1,3 +1,4 @@
 Nome: Me. Adalto Selau Sparremberger
 Idade: 40
-Altura: 1.75
+Altura: 1.85
+Peso: 135
